@@ -2506,9 +2506,9 @@ section,
 .announcement-box{
     width:min(90vw,940px);
 
-    padding:3rem;
+    padding:2rem;
 
-    border-radius:28px;
+    border-radius:18px;
 
     background:rgba(255,255,255,.12);
     backdrop-filter:blur(35px);
@@ -2565,7 +2565,7 @@ section,
 .announcement-box h2{
     margin:0 0 .8rem;
 
-    font-size:4rem;
+    font-size:2rem;
     letter-spacing:-.04em;
 
     color:#fff;
@@ -2576,7 +2576,7 @@ section,
 
     color:rgba(255,255,255,.82);
 
-    font-size:2rem;
-    line-height:1.8;
+    font-size:1rem;
+    line-height:0.8;
     font-weight:400;
 }
